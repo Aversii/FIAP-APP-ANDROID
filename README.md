@@ -1,4 +1,11 @@
-# Green Impact - Aplicativo para Calcular e Reduzir seu Impacto de CO₂
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/643c17c2-ca12-4ce0-8d84-3351cd5da663" alt="image" />
+</p>
+
+
+
+# 🍁 Green Impact - Aplicativo para Calcular e Reduzir seu Impacto de CO₂
 
 O **Green Impact** é um aplicativo desenvolvido em **Kotlin** para Android, com o objetivo de ajudar os usuários a calcular seu impacto ambiental com base em diferentes atividades cotidianas e a aprender mais sobre o impacto do CO₂ na nossa vida. Além disso, o app conta com um quiz interativo para aumentar o conhecimento dos usuários sobre as mudanças climáticas e práticas sustentáveis.
 
