@@ -33,6 +33,19 @@ O Green Impact busca conscientizar os usuários sobre as práticas do dia a dia 
 - **Jetpack Compose**: Biblioteca moderna de UI para construir interfaces de usuário de forma declarativa.
 - **Navigation Component**: Para navegação entre as telas do aplicativo.
 
+##O APP
+
+![image](https://github.com/user-attachments/assets/bd91a238-aaad-416e-8cf9-238cd4ddd456)
+![image](https://github.com/user-attachments/assets/1069efb4-7aaa-4c50-a9b8-eb9a8ae5aaa0)
+![image](https://github.com/user-attachments/assets/0916baf1-e599-447d-ae09-315e4ca25550)
+![image](https://github.com/user-attachments/assets/dc2e6402-5be4-4573-93f7-2b51b79569b1)
+![image](https://github.com/user-attachments/assets/31d40666-9619-4e07-9898-4094b0e0b8a1)
+![image](https://github.com/user-attachments/assets/39fbc532-e5af-4d6c-af12-369353f27430)
+![image](https://github.com/user-attachments/assets/6830a2c9-4ec1-4568-ae1e-a8d74c12bc15)
+
+
+
+
 ## Como Rodar Localmente
 
 1. Clone o repositório:
